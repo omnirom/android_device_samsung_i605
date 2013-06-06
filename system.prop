@@ -9,7 +9,7 @@ ro.lcd_min_brightness=20
 telephony.lteOnCdmaDevice=1
 ro.cdma.subscribe_on_ruim_ready=true
 ril.subscription.types=RUIM
-persist.radio.no_wait_for_card=0
+persist.radio.no_wait_for_card=1
 ro.hdcp2.rx=tz
 
 #
@@ -27,19 +27,19 @@ ro.telephony.call_ring.multiple=0
 # Fields for custom RIL
 # MAX PROP NAME is 31 chars --|
 gsm.sim.operator.alpha=Verizon
-gsm.sim.operator.numeric=310004
+gsm.sim.operator.numeric=311480
 gsm.sim.operator.iso-country=us
 gsm.operator.alpha=Verizon
-gsm.operator.numeric=310004
+gsm.operator.numeric=311480
 gsm.operator.iso-country=us
-ro.cdma.home.operator.numeric=310004
+ro.cdma.home.operator.numeric=311480
 ro.cdma.home.operator.alpha=Verizon
 ro.telephony.default_network=8
 keyguard.no_require_sim=true
 ro.config.svlte1x=true
 
 # System property for SIM
-persist.radio.apm_sim_not_pwdn=0
+persist.radio.apm_sim_not_pwdn=1
 
 # System property for sys info indication
 persist.radio.add_power_save=1
