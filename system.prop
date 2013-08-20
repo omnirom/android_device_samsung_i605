@@ -36,7 +36,7 @@ ro.cdma.home.operator.numeric=311480
 ro.cdma.home.operator.alpha=Verizon
 ro.telephony.default_network=8
 keyguard.no_require_sim=true
-ro.config.svlte1x=true
+ro.ril.svdo=true
 
 # System property for SIM
 persist.radio.apm_sim_not_pwdn=1
