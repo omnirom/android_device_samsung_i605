@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ab89d9a9_080ac6d4",
+        "filename": "omni.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2013-11-12T06:56:02Z",
+      "side": 1,
+      "message": "nope, don\u0027t put DC in there",
+      "revId": "1c2c0c845aa7012c1a127f547ef9f75c992fad5e",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
