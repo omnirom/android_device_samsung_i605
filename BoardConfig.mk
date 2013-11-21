@@ -26,6 +26,7 @@ BOARD_GPS_SET_PRIVACY := true
 # Recovery
 TARGET_RECOVERY_FSTAB := device/samsung/i605/rootdir/fstab.smdk4x12
 RECOVERY_FSTAB_VERSION := 2
+BOARD_RECOVERY_SWIPE := true
 
 # assert
 TARGET_OTA_ASSERT_DEVICE := t0ltevzw,t0ltecdma,i605,SCH-I605
