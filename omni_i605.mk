@@ -19,7 +19,7 @@ $(call inherit-product, vendor/omni/config/cdma.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/samsung/l900/full_i605.mk)
+$(call inherit-product, device/samsung/i605/full_i605.mk)
 
 # Discard inherited values and use our own instead.
 PRODUCT_NAME := omni_i605
