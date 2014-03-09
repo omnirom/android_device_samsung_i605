@@ -15,5 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_i605.mk \
     $(LOCAL_DIR)/omni_i605.mk
